@@ -45,7 +45,7 @@ I enjoy exploring how software works, experimenting with different technologies,
 
 ## `$ github-stats`
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=athulrajmp21&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github)
+![GitHub Stats](https://github-readme-stats-zeta-ivory-74.vercel.app/api?username=athulrajmp21&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athulrajmp21&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
